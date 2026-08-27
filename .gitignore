@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.swp
+
+# Large course archives and incomplete downloads are kept locally only.
+*.zip
+*.zip.*
+*.downloading
+*.partial.segment-*
