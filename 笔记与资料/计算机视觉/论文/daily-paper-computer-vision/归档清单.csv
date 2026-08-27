@@ -1,0 +1,1067 @@
+﻿"Kind","Id","Url","RelativePath","Sources","Status","Bytes","Message"
+"arXiv","1611.07004","https://arxiv.org/pdf/1611.07004.pdf","arXiv\2016\1611.07004.pdf","2018\06\23.md","failed","0","Segment 0-2330896 failed: curl: (28) Operation timed out after 240219 milliseconds with 458752 out of 2330897 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240224 milliseconds with 654171 out of 2330897 bytes received
+ | Segment 2330897-4661793 failed: curl: (28) Operation timed out after 240268 milliseconds with 454060 out of 2330897 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240169 milliseconds with 650668 out of 2330897 bytes received
+ | Segment 4661794-6992690 failed: curl: (28) Operation timed out after 240602 milliseconds with 462568 out of 2330897 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240222 milliseconds with 644875 out of 2330897 bytes received
+ | Segment 6992691-9323586 failed: curl: (28) Operation timed out after 240512 milliseconds with 442368 out of 2330896 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240222 milliseconds with 658244 out of 2330896 bytes received
+"
+"arXiv","1611.08050","https://arxiv.org/pdf/1611.08050.pdf","arXiv\2016\1611.08050.pdf","2018\12\17-21.md","failed","0","Segment 0-2117630 failed: curl: (28) Operation timed out after 240178 milliseconds with 458752 out of 2117631 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240171 milliseconds with 651890 out of 2117631 bytes received
+ | Segment 2117631-4235261 failed: curl: (28) Operation timed out after 240289 milliseconds with 453409 out of 2117631 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240165 milliseconds with 650017 out of 2117631 bytes received
+ | Segment 4235262-6352892 failed: curl: (28) Operation timed out after 240621 milliseconds with 449239 out of 2117631 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240127 milliseconds with 662231 out of 2117631 bytes received
+ | Segment 6352893-8470522 failed: curl: (28) Operation timed out after 240164 milliseconds with 462653 out of 2117630 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240180 milliseconds with 659261 out of 2117630 bytes received
+"
+"arXiv","1711.06897","https://arxiv.org/pdf/1711.06897.pdf","arXiv\2017\1711.06897.pdf","2018\07\06.md","existing","3613348",""
+"arXiv","1712.00433","https://arxiv.org/pdf/1712.00433.pdf","arXiv\2017\1712.00433.pdf","2018\07\06.md","existing","1528769",""
+"arXiv","1803.04907","https://arxiv.org/pdf/1803.04907.pdf","arXiv\2018\1803.04907.pdf","2018\07\07.md","existing","2235175",""
+"arXiv","1803.04953","https://arxiv.org/pdf/1803.04953.pdf","arXiv\2018\1803.04953.pdf","2018\06\13.md","existing","1834887",""
+"arXiv","1803.09903","https://arxiv.org/pdf/1803.09903.pdf","arXiv\2018\1803.09903.pdf","2018\07\07.md","existing","735215",""
+"arXiv","1804.05870","https://arxiv.org/pdf/1804.05870.pdf","arXiv\2018\1804.05870.pdf","2018\05\16.md","failed","0","Segment 0-2208550 failed: curl: (28) Operation timed out after 240058 milliseconds with 452416 out of 2208551 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240171 milliseconds with 653631 out of 2208551 bytes received
+ | Segment 2208551-4417101 failed: curl: (28) Operation timed out after 240310 milliseconds with 458081 out of 2208551 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240292 milliseconds with 654689 out of 2208551 bytes received
+ | Segment 4417102-6625652 failed: curl: (28) Operation timed out after 240628 milliseconds with 448716 out of 2208551 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240166 milliseconds with 661708 out of 2208551 bytes received
+ | Segment 6625653-8834201 failed: curl: (28) Operation timed out after 240187 milliseconds with 452050 out of 2208549 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240401 milliseconds with 648658 out of 2208549 bytes received
+"
+"arXiv","1804.06008","https://arxiv.org/pdf/1804.06008.pdf","arXiv\2018\1804.06008.pdf","2018\05\16.md","failed","0","Segment 0-2236361 failed: curl: (28) Operation timed out after 240095 milliseconds with 458317 out of 2236362 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240169 milliseconds with 654237 out of 2236362 bytes received
+ | Segment 2236362-4472723 failed: curl: (28) Operation timed out after 240904 milliseconds with 449829 out of 2236362 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240169 milliseconds with 646437 out of 2236362 bytes received
+ | Segment 4472724-6709085 failed: curl: (28) Operation timed out after 240521 milliseconds with 456296 out of 2236362 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240183 milliseconds with 669288 out of 2236362 bytes received
+ | Segment 6709086-8945446 failed: curl: (28) Operation timed out after 240077 milliseconds with 450043 out of 2236361 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240165 milliseconds with 647330 out of 2236361 bytes received
+"
+"arXiv","1804.06112","https://arxiv.org/pdf/1804.06112.pdf","arXiv\2018\1804.06112.pdf","2018\05\16.md","existing","3912161",""
+"arXiv","1804.06215","https://arxiv.org/pdf/1804.06215.pdf","arXiv\2018\1804.06215.pdf","2018\10\12.md","existing","3207280",""
+"arXiv","1804.06324","https://arxiv.org/pdf/1804.06324.pdf","arXiv\2018\1804.06324.pdf","2018\05\16.md","existing","362890",""
+"arXiv","1804.06423","https://arxiv.org/pdf/1804.06423.pdf","arXiv\2018\1804.06423.pdf","2018\05\22.md","failed","0","Segment 0-1359740 failed: curl: (28) Operation timed out after 240102 milliseconds with 458752 out of 1359741 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240222 milliseconds with 653688 out of 1359741 bytes received
+ | Segment 1359741-2719481 failed: curl: (28) Operation timed out after 240355 milliseconds with 455814 out of 1359741 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240224 milliseconds with 652422 out of 1359741 bytes received
+ | Segment 2719482-4079222 failed: curl: (28) Operation timed out after 240790 milliseconds with 459014 out of 1359741 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240221 milliseconds with 655622 out of 1359741 bytes received
+ | Segment 4079223-5438963 failed: curl: (28) Operation timed out after 240599 milliseconds with 440134 out of 1359741 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240167 milliseconds with 669510 out of 1359741 bytes received
+"
+"arXiv","1804.06505","https://arxiv.org/pdf/1804.06505.pdf","arXiv\2018\1804.06505.pdf","2018\05\24.md","failed","0","Segment 0-1047191 failed: curl: (28) Operation timed out after 240200 milliseconds with 458752 out of 1047192 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240168 milliseconds with 653833 out of 1047192 bytes received
+ | Segment 1047192-2094383 failed: curl: (28) Operation timed out after 240887 milliseconds with 441326 out of 1047192 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240127 milliseconds with 660456 out of 1047192 bytes received
+ | Segment 2094384-3141575 failed: curl: (28) Operation timed out after 240567 milliseconds with 459264 out of 1047192 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240167 milliseconds with 655872 out of 1047192 bytes received
+ | Segment 3141576-4188767 failed: curl: (28) Operation timed out after 240619 milliseconds with 445688 out of 1047192 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240169 milliseconds with 658680 out of 1047192 bytes received
+"
+"arXiv","1804.06510","https://arxiv.org/pdf/1804.06510.pdf","arXiv\2018\1804.06510.pdf","2018\05\24.md","existing","4048607",""
+"arXiv","1804.06516","https://arxiv.org/pdf/1804.06516.pdf","arXiv\2018\1804.06516.pdf","2018\05\19.md","existing","4006417",""
+"arXiv","1804.06534","https://arxiv.org/pdf/1804.06534.pdf","arXiv\2018\1804.06534.pdf","2018\05\19.md","existing","2708984",""
+"arXiv","1804.06559","https://arxiv.org/pdf/1804.06559.pdf","arXiv\2018\1804.06559.pdf","2018\05\19.md","failed","0","Segment 0-1745506 failed: curl: (28) Operation timed out after 240419 milliseconds with 458752 out of 1745507 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240171 milliseconds with 654333 out of 1745507 bytes received
+ | Segment 1745507-3491013 failed: curl: (28) Operation timed out after 240732 milliseconds with 463748 out of 1745507 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240401 milliseconds with 659987 out of 1745507 bytes received
+ | Segment 3491014-5236520 failed: curl: (28) Operation timed out after 240664 milliseconds with 437923 out of 1745507 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240167 milliseconds with 674176 out of 1745507 bytes received
+ | Segment 5236521-6982026 failed: curl: (28) Operation timed out after 240399 milliseconds with 447901 out of 1745506 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240398 milliseconds with 660893 out of 1745506 bytes received
+"
+"arXiv","1804.06579","https://arxiv.org/pdf/1804.06579.pdf","arXiv\2018\1804.06579.pdf","2018\05\24.md","failed","0","Segment 0-3247493 failed: curl: (28) Operation timed out after 240554 milliseconds with 458752 out of 3247494 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240224 milliseconds with 667902 out of 3247494 bytes received
+ | Segment 3247494-6494987 failed: curl: (28) Operation timed out after 240132 milliseconds with 452816 out of 3247494 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240597 milliseconds with 649424 out of 3247494 bytes received
+ | Segment 6494988-9742481 failed: curl: (28) Operation timed out after 240131 milliseconds with 448824 out of 3247494 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240165 milliseconds with 661816 out of 3247494 bytes received
+ | Segment 9742482-12989972 failed: curl: (28) Operation timed out after 240146 milliseconds with 446367 out of 3247491 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240166 milliseconds with 659359 out of 3247491 bytes received
+"
+"arXiv","1804.06633","https://arxiv.org/pdf/1804.06633.pdf","arXiv\2018\1804.06633.pdf","2018\05\24.md","failed","0","Segment 0-1105542 failed: curl: (28) Operation timed out after 240235 milliseconds with 458752 out of 1105543 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240224 milliseconds with 667960 out of 1105543 bytes received
+ | Segment 1105543-2211085 failed: curl: (28) Operation timed out after 240158 milliseconds with 464488 out of 1105543 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240222 milliseconds with 644712 out of 1105543 bytes received
+ | Segment 2211086-3316628 failed: curl: (28) Operation timed out after 240469 milliseconds with 458756 out of 1105543 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240171 milliseconds with 655364 out of 1105543 bytes received
+ | Segment 3316629-4422171 failed: curl: (28) Operation timed out after 240016 milliseconds with 448983 out of 1105543 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240224 milliseconds with 661975 out of 1105543 bytes received
+"
+"arXiv","1804.06642","https://arxiv.org/pdf/1804.06642.pdf","arXiv\2018\1804.06642.pdf","2018\05\22.md","existing","596722",""
+"arXiv","1804.06655","https://arxiv.org/pdf/1804.06655.pdf","arXiv\2018\1804.06655.pdf","2018\05\19.md","failed","0","Segment 0-2182034 failed: curl: (28) Operation timed out after 240116 milliseconds with 452416 out of 2182035 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240599 milliseconds with 654709 out of 2182035 bytes received
+ | Segment 2182035-4364069 failed: curl: (28) Operation timed out after 240228 milliseconds with 455636 out of 2182035 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240165 milliseconds with 652244 out of 2182035 bytes received
+ | Segment 4364070-6546104 failed: curl: (28) Operation timed out after 240542 milliseconds with 449698 out of 2182035 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240182 milliseconds with 662690 out of 2182035 bytes received
+ | Segment 6546105-8728138 failed: curl: (28) Operation timed out after 240468 milliseconds with 449708 out of 2182034 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240399 milliseconds with 646316 out of 2182034 bytes received
+"
+"arXiv","1804.06680","https://arxiv.org/pdf/1804.06680.pdf","arXiv\2018\1804.06680.pdf","2018\05\22.md","failed","0","Segment 0-2458483 failed: curl: (28) Operation timed out after 240291 milliseconds with 458752 out of 2458484 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240166 milliseconds with 669899 out of 2458484 bytes received
+ | Segment 2458484-4916967 failed: curl: (28) Operation timed out after 240331 milliseconds with 455891 out of 2458484 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240401 milliseconds with 652499 out of 2458484 bytes received
+ | Segment 4916968-7375451 failed: curl: (28) Operation timed out after 240709 milliseconds with 454454 out of 2458484 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240171 milliseconds with 669080 out of 2458484 bytes received
+ | Segment 7375452-9833934 failed: curl: (28) Operation timed out after 240208 milliseconds with 455162 out of 2458483 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240221 milliseconds with 668154 out of 2458483 bytes received
+"
+"arXiv","1804.06702","https://arxiv.org/pdf/1804.06702.pdf","arXiv\2018\1804.06702.pdf","2018\05\24.md","existing","696476",""
+"arXiv","1804.06833","https://arxiv.org/pdf/1804.06833.pdf","arXiv\2018\1804.06833.pdf","2018\05\22.md","existing","1318540",""
+"arXiv","1804.08286","https://arxiv.org/pdf/1804.08286.pdf","arXiv\2018\1804.08286.pdf","2018\05\29.md","failed","0","Segment 0-1519731 failed: curl: (28) Operation timed out after 240136 milliseconds with 452416 out of 1519732 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240597 milliseconds with 653690 out of 1519732 bytes received
+ | Segment 1519732-3039463 failed: curl: (28) Operation timed out after 240181 milliseconds with 462182 out of 1519732 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240401 milliseconds with 658790 out of 1519732 bytes received
+ | Segment 3039464-4559195 failed: curl: (28) Operation timed out after 240791 milliseconds with 450328 out of 1519732 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240180 milliseconds with 662488 out of 1519732 bytes received
+ | Segment 4559196-6078924 failed: curl: (28) Operation timed out after 240052 milliseconds with 458752 out of 1519729 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240167 milliseconds with 650588 out of 1519729 bytes received
+"
+"arXiv","1804.09803","https://arxiv.org/pdf/1804.09803.pdf","arXiv\2018\1804.09803.pdf","2018\05\29.md","downloaded","2120585",""
+"arXiv","1804.09858","https://arxiv.org/pdf/1804.09858.pdf","arXiv\2018\1804.09858.pdf","2018\06\06.md","downloaded","949230",""
+"arXiv","1804.09859","https://arxiv.org/pdf/1804.09859.pdf","arXiv\2018\1804.09859.pdf","2018\06\08.md","existing","560018",""
+"arXiv","1804.09862","https://arxiv.org/pdf/1804.09862.pdf","arXiv\2018\1804.09862.pdf","2018\06\11.md","downloaded","2511932",""
+"arXiv","1804.10069","https://arxiv.org/pdf/1804.10069.pdf","arXiv\2018\1804.10069.pdf","2018\05\29.md","downloaded","1221875",""
+"arXiv","1804.10073","https://arxiv.org/pdf/1804.10073.pdf","arXiv\2018\1804.10073.pdf","2018\06\06.md","downloaded","1338753",""
+"arXiv","1804.10094","https://arxiv.org/pdf/1804.10094.pdf","arXiv\2018\1804.10094.pdf","2018\06\06.md","failed","0","Segment 0-1100150 failed: curl: (28) Operation timed out after 240031 milliseconds with 458752 out of 1100151 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240171 milliseconds with 655108 out of 1100151 bytes received
+ | Segment 1100151-2200301 failed: curl: (28) Operation timed out after 240422 milliseconds with 453022 out of 1100151 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240222 milliseconds with 666624 out of 1100151 bytes received
+ | Segment 2200302-3300452 failed: curl: (28) Operation timed out after 240752 milliseconds with 442368 out of 1100151 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240293 milliseconds with 664482 out of 1100151 bytes received
+ | Segment 3300453-4400603 failed: curl: (28) Operation timed out after 240306 milliseconds with 438811 out of 1100151 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240171 milliseconds with 661407 out of 1100151 bytes received
+"
+"arXiv","1804.10113","https://arxiv.org/pdf/1804.10113.pdf","arXiv\2018\1804.10113.pdf","2018\06\08.md","downloaded","877178",""
+"arXiv","1804.10123","https://arxiv.org/pdf/1804.10123.pdf","arXiv\2018\1804.10123.pdf","2018\05\29.md","downloaded","469155",""
+"arXiv","1804.10134","https://arxiv.org/pdf/1804.10134.pdf","arXiv\2018\1804.10134.pdf","2018\06\06.md","failed","0","Segment 0-1199779 failed: curl: (28) Operation timed out after 240460 milliseconds with 458752 out of 1199780 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240398 milliseconds with 669492 out of 1199780 bytes received
+ | Segment 1199780-2399559 failed: curl: (28) Operation timed out after 240100 milliseconds with 465052 out of 1199780 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240171 milliseconds with 651572 out of 1199780 bytes received
+ | Segment 2399560-3599339 failed: curl: (28) Operation timed out after 240073 milliseconds with 467640 out of 1199780 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240166 milliseconds with 661460 out of 1199780 bytes received
+ | Segment 3599340-4799116 failed: curl: (28) Operation timed out after 240054 milliseconds with 467604 out of 1199777 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240164 milliseconds with 658030 out of 1199777 bytes received
+"
+"arXiv","1804.10160","https://arxiv.org/pdf/1804.10160.pdf","arXiv\2018\1804.10160.pdf","2018\06\08.md","downloaded","602385",""
+"arXiv","1804.10172","https://arxiv.org/pdf/1804.10172.pdf","arXiv\2018\1804.10172.pdf","2018\06\08.md","downloaded","1193117",""
+"arXiv","1804.10275","https://arxiv.org/pdf/1804.10275.pdf","arXiv\2018\1804.10275.pdf","2018\06\11.md","failed","0","Segment 0-1638224 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240349 milliseconds with 651622 out of 1638225 bytes received
+curl: (28) Operation timed out after 240097 milliseconds with 569702 out of 1638225 bytes received
+ | Segment 1638225-3276449 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240166 milliseconds with 688238 out of 1638225 bytes received
+curl: (28) Operation timed out after 240366 milliseconds with 573615 out of 1638225 bytes received
+ | Segment 3276450-4914674 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240180 milliseconds with 654093 out of 1638225 bytes received
+curl: (28) Operation timed out after 240351 milliseconds with 588557 out of 1638225 bytes received
+ | Segment 4914675-6552899 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240348 milliseconds with 655835 out of 1638225 bytes received
+curl: (28) Operation timed out after 240197 milliseconds with 590299 out of 1638225 bytes received
+"
+"arXiv","1804.10343","https://arxiv.org/pdf/1804.10343.pdf","arXiv\2018\1804.10343.pdf","2018\06\13.md","failed","0","Segment 0-1931622 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240181 milliseconds with 652455 out of 1931623 bytes received
+curl: (28) Operation timed out after 240351 milliseconds with 586919 out of 1931623 bytes received
+ | Segment 1931623-3863245 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240599 milliseconds with 656968 out of 1931623 bytes received
+curl: (28) Operation timed out after 240254 milliseconds with 585177 out of 1931623 bytes received
+ | Segment 3863246-5794868 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240224 milliseconds with 656520 out of 1931623 bytes received
+curl: (28) Operation timed out after 240504 milliseconds with 593202 out of 1931623 bytes received
+ | Segment 5794869-7726488 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240224 milliseconds with 660427 out of 1931620 bytes received
+curl: (28) Operation timed out after 240505 milliseconds with 578507 out of 1931620 bytes received
+"
+"arXiv","1804.10371","https://arxiv.org/pdf/1804.10371.pdf","arXiv\2018\1804.10371.pdf","2018\06\13.md","failed","0","Segment 0-2284531 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240171 milliseconds with 651845 out of 2284532 bytes received
+curl: (28) Operation timed out after 240366 milliseconds with 586309 out of 2284532 bytes received
+ | Segment 2284532-4569063 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240224 milliseconds with 660862 out of 2284532 bytes received
+curl: (28) Operation timed out after 240505 milliseconds with 578942 out of 2284532 bytes received
+ | Segment 4569064-6853595 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240400 milliseconds with 656778 out of 2284532 bytes received
+curl: (28) Operation timed out after 240445 milliseconds with 589824 out of 2284532 bytes received
+ | Segment 6853596-9138125 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240167 milliseconds with 665010 out of 2284530 bytes received
+curl: (28) Operation timed out after 240184 milliseconds with 581585 out of 2284530 bytes received
+"
+"arXiv","1804.10390","https://arxiv.org/pdf/1804.10390.pdf","arXiv\2018\1804.10390.pdf","2018\06\11.md","downloaded","692987",""
+"arXiv","1804.10428","https://arxiv.org/pdf/1804.10428.pdf","arXiv\2018\1804.10428.pdf","2018\06\11.md","downloaded","847051",""
+"arXiv","1804.10743","https://arxiv.org/pdf/1804.10743.pdf","arXiv\2018\1804.10743.pdf","2018\06\15.md","failed","0","Segment 0-1788837 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240222 milliseconds with 653610 out of 1788838 bytes received
+curl: (28) Operation timed out after 240327 milliseconds with 593536 out of 1788838 bytes received
+curl: (28) Operation timed out after 240332 milliseconds with 637226 out of 1788838 bytes received
+curl: (28) Connection timed out after 15013 milliseconds
+ | Segment 1788838-3577675 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240223 milliseconds with 649041 out of 1788838 bytes received
+curl: (28) Operation timed out after 240220 milliseconds with 583505 out of 1788838 bytes received
+curl: (28) Operation timed out after 240254 milliseconds with 632657 out of 1788838 bytes received
+curl: (28) Connection timed out after 15014 milliseconds
+ | Segment 3577676-5366513 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240222 milliseconds with 665290 out of 1788838 bytes received
+curl: (28) Operation timed out after 240504 milliseconds with 583370 out of 1788838 bytes received
+curl: (28) Operation timed out after 240880 milliseconds with 632522 out of 1788838 bytes received
+curl: (28) Connection timed out after 15011 milliseconds
+ | Segment 5366514-7155348 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (28) Operation timed out after 240224 milliseconds with 655360 out of 1788835 bytes received
+curl: (28) Operation timed out after 240504 milliseconds with 593199 out of 1788835 bytes received
+curl: (28) Operation timed out after 240880 milliseconds with 638976 out of 1788835 bytes received
+curl: (28) Connection timed out after 15011 milliseconds
+"
+"arXiv","1804.10805","https://arxiv.org/pdf/1804.10805.pdf","arXiv\2018\1804.10805.pdf","2018\06\19.md","downloaded","1061950",""
+"arXiv","1804.10892","https://arxiv.org/pdf/1804.10892.pdf","arXiv\2018\1804.10892.pdf","2018\06\15.md","downloaded","1515007",""
+"arXiv","1804.10899","https://arxiv.org/pdf/1804.10899.pdf","arXiv\2018\1804.10899.pdf","2018\06\15.md","failed","0","Segment 0-2621794 failed: curl: (28) Operation timed out after 240075 milliseconds with 584704 out of 2621795 bytes received
+curl: (28) Operation timed out after 240464 milliseconds with 620647 out of 2621795 bytes received
+curl: (28) Connection timed out after 15011 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 2621795-5243589 failed: curl: (28) Operation timed out after 240111 milliseconds with 573085 out of 2621795 bytes received
+curl: (28) Operation timed out after 240402 milliseconds with 636260 out of 2621795 bytes received
+curl: (28) Connection timed out after 15011 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 5243590-7865384 failed: curl: (28) Operation timed out after 240028 milliseconds with 572730 out of 2621795 bytes received
+curl: (28) Operation timed out after 240464 milliseconds with 636920 out of 2621795 bytes received
+curl: (28) Connection timed out after 15011 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 7865385-10487176 failed: curl: (28) Operation timed out after 240063 milliseconds with 572375 out of 2621792 bytes received
+curl: (28) Operation timed out after 240572 milliseconds with 637851 out of 2621792 bytes received
+curl: (28) Connection timed out after 15012 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+"
+"arXiv","1804.10992","https://arxiv.org/pdf/1804.10992.pdf","arXiv\2018\1804.10992.pdf","2018\06\23.md","failed","0","Segment 0-1396030 failed: curl: (28) Operation timed out after 240215 milliseconds with 584704 out of 1396031 bytes received
+curl: (28) Operation timed out after 240028 milliseconds with 638100 out of 1396031 bytes received
+curl: (28) Connection timed out after 15011 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 1396031-2792061 failed: curl: (28) Operation timed out after 240020 milliseconds with 578817 out of 1396031 bytes received
+curl: (28) Operation timed out after 240968 milliseconds with 634946 out of 1396031 bytes received
+curl: (28) Connection timed out after 15007 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 2792062-4188092 failed: curl: (28) Operation timed out after 240060 milliseconds with 566658 out of 1396031 bytes received
+curl: (28) Operation timed out after 240732 milliseconds with 622592 out of 1396031 bytes received
+curl: (28) Connection timed out after 15007 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 4188093-5584121 failed: curl: (28) Operation timed out after 240214 milliseconds with 579651 out of 1396029 bytes received
+curl: (28) Operation timed out after 240421 milliseconds with 626143 out of 1396029 bytes received
+curl: (28) Connection timed out after 15007 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+"
+"arXiv","1804.11182","https://arxiv.org/pdf/1804.11182.pdf","arXiv\2018\1804.11182.pdf","2018\06\23.md","failed","0","Segment 0-1105767 failed: curl: (28) Operation timed out after 240099 milliseconds with 589824 out of 1105768 bytes received
+curl: (28) Operation timed out after 240123 milliseconds with 635761 out of 1105768 bytes received
+curl: (28) Connection timed out after 15011 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 1105768-2211535 failed: curl: (28) Operation timed out after 240232 milliseconds with 581784 out of 1105768 bytes received
+curl: (28) Operation timed out after 240968 milliseconds with 629097 out of 1105768 bytes received
+curl: (28) Connection timed out after 15007 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 2211536-3317303 failed: curl: (28) Operation timed out after 240189 milliseconds with 577456 out of 1105768 bytes received
+curl: (28) Operation timed out after 240718 milliseconds with 635248 out of 1105768 bytes received
+curl: (28) Connection timed out after 15007 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 3317304-4423071 failed: curl: (28) Operation timed out after 240077 milliseconds with 582088 out of 1105768 bytes received
+curl: (28) Operation timed out after 240610 milliseconds with 611891 out of 1105768 bytes received
+curl: (28) Connection timed out after 15007 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+"
+"arXiv","1804.11294","https://arxiv.org/pdf/1804.11294.pdf","arXiv\2018\1804.11294.pdf","2018\06\13.md","downloaded","580750",""
+"arXiv","1805.00107","https://arxiv.org/pdf/1805.00107.pdf","arXiv\2018\1805.00107.pdf","2018\06\19.md","downloaded","1662997",""
+"arXiv","1805.00247","https://arxiv.org/pdf/1805.00247.pdf","arXiv\2018\1805.00247.pdf","2018\06\23.md","failed","0","Segment 0-1266064 failed: curl: (28) Operation timed out after 240232 milliseconds with 583488 out of 1266065 bytes received
+curl: (28) Operation timed out after 240061 milliseconds with 638755 out of 1266065 bytes received
+curl: (28) Connection timed out after 15012 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 1266065-2532129 failed: curl: (28) Operation timed out after 240025 milliseconds with 589824 out of 1266065 bytes received
+curl: (28) Operation timed out after 240232 milliseconds with 633345 out of 1266065 bytes received
+curl: (28) Connection timed out after 15011 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 2532130-3798194 failed: curl: (28) Operation timed out after 240315 milliseconds with 584704 out of 1266065 bytes received
+curl: (28) Operation timed out after 240907 milliseconds with 632640 out of 1266065 bytes received
+curl: (28) Connection timed out after 15007 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 3798195-5064259 failed: curl: (28) Operation timed out after 240236 milliseconds with 576333 out of 1266065 bytes received
+curl: (28) Operation timed out after 240779 milliseconds with 622682 out of 1266065 bytes received
+curl: (28) Connection timed out after 15007 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+"
+"arXiv","1805.00251","https://arxiv.org/pdf/1805.00251.pdf","arXiv\2018\1805.00251.pdf","2018\06\23.md","downloaded","2428551",""
+"arXiv","1805.00324","https://arxiv.org/pdf/1805.00324.pdf","arXiv\2018\1805.00324.pdf","2018\06\29.md","downloaded","2016208",""
+"arXiv","1805.00326","https://arxiv.org/pdf/1805.00326.pdf","arXiv\2018\1805.00326.pdf","2018\06\29.md","downloaded","284615",""
+"arXiv","1805.00330","https://arxiv.org/pdf/1805.00330.pdf","arXiv\2018\1805.00330.pdf","2018\06\19.md","downloaded","858332",""
+"arXiv","1805.00371","https://arxiv.org/pdf/1805.00371.pdf","arXiv\2018\1805.00371.pdf","2018\06\29.md","downloaded","1795135",""
+"arXiv","1805.00406","https://arxiv.org/pdf/1805.00406.pdf","arXiv\2018\1805.00406.pdf","2018\06\29.md","downloaded","839252",""
+"arXiv","1805.00676","https://arxiv.org/pdf/1805.00676.pdf","arXiv\2018\1805.00676.pdf","2018\07\05.md","failed","0","Segment 0-2471974 failed: curl: (28) Operation timed out after 240151 milliseconds with 584704 out of 2471975 bytes received
+curl: (28) Operation timed out after 240478 milliseconds with 636813 out of 2471975 bytes received
+curl: (28) Connection timed out after 15011 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 2471975-4943949 failed: curl: (28) Operation timed out after 240078 milliseconds with 571609 out of 2471975 bytes received
+curl: (28) Operation timed out after 240230 milliseconds with 623483 out of 2471975 bytes received
+curl: (28) Connection timed out after 15011 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 4943950-7415924 failed: curl: (28) Operation timed out after 240147 milliseconds with 577458 out of 2471975 bytes received
+curl: (28) Operation timed out after 240907 milliseconds with 626387 out of 2471975 bytes received
+curl: (28) Connection timed out after 15007 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 7415925-9887896 failed: curl: (28) Operation timed out after 240051 milliseconds with 576937 out of 2471972 bytes received
+curl: (28) Operation timed out after 240718 milliseconds with 627853 out of 2471972 bytes received
+curl: (28) Connection timed out after 15007 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+"
+"arXiv","1805.00780","https://arxiv.org/pdf/1805.00780.pdf","arXiv\2018\1805.00780.pdf","2018\06\15.md","failed","0","Segment 0-1230053 failed: curl: (28) Operation timed out after 240213 milliseconds with 573440 out of 1230054 bytes received
+curl: (28) Operation timed out after 240779 milliseconds with 622205 out of 1230054 bytes received
+curl: (28) Connection timed out after 15007 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 1230054-2460107 failed: curl: (28) Operation timed out after 240341 milliseconds with 575898 out of 1230054 bytes received
+curl: (28) Operation timed out after 240251 milliseconds with 620177 out of 1230054 bytes received
+curl: (28) Connection timed out after 15009 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 2460108-3690161 failed: curl: (28) Operation timed out after 240286 milliseconds with 573440 out of 1230054 bytes received
+curl: (28) Operation timed out after 240172 milliseconds with 619023 out of 1230054 bytes received
+curl: (28) Connection timed out after 15009 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 3690162-4920212 failed: curl: (28) Operation timed out after 240170 milliseconds with 569678 out of 1230051 bytes received
+curl: (28) Operation timed out after 240251 milliseconds with 614857 out of 1230051 bytes received
+curl: (28) Connection timed out after 15009 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+"
+"arXiv","1805.00911","https://arxiv.org/pdf/1805.00911.pdf","arXiv\2018\1805.00911.pdf","2018\06\19.md","failed","0","Segment 0-2353657 failed: curl: (28) Operation timed out after 240180 milliseconds with 593536 out of 2353658 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 2353658-4707315 failed: curl: (28) Operation timed out after 240494 milliseconds with 590342 out of 2353658 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 4707316-7060973 failed: curl: (28) Operation timed out after 240179 milliseconds with 584716 out of 2353658 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 7060974-9414629 failed: curl: (28) Operation timed out after 240159 milliseconds with 590354 out of 2353656 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+"
+"arXiv","1805.01677","https://arxiv.org/pdf/1805.01677.pdf","arXiv\2018\1805.01677.pdf","2018\07\05.md","failed","0","Segment 0-1871585 failed: curl: (28) Operation timed out after 240077 milliseconds with 582208 out of 1871586 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 1871586-3743171 failed: curl: (28) Operation timed out after 240383 milliseconds with 579678 out of 1871586 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 3743172-5614757 failed: curl: (28) Operation timed out after 240029 milliseconds with 579670 out of 1871586 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 5614758-7486343 failed: curl: (28) Operation timed out after 240087 milliseconds with 573440 out of 1871586 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+"
+"arXiv","1805.02456","https://arxiv.org/pdf/1805.02456.pdf","arXiv\2018\1805.02456.pdf","2018\07\05.md","failed","0","Segment 0-756544 failed: curl: (28) Operation timed out after 240187 milliseconds with 584704 out of 756545 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 756545-1513089 failed: curl: (28) Operation timed out after 240203 milliseconds with 586943 out of 756545 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 1513090-2269634 failed: curl: (28) Operation timed out after 240138 milliseconds with 584062 out of 756545 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 2269635-3026177 failed: curl: (28) Operation timed out after 240117 milliseconds with 576061 out of 756543 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+"
+"arXiv","1805.02481","https://arxiv.org/pdf/1805.02481.pdf","arXiv\2018\1805.02481.pdf","2018\07\05.md","failed","0","Segment 0-648126 failed: curl: (28) Operation timed out after 240421 milliseconds with 584704 out of 648127 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 648127-1296253 failed: curl: (28) Operation timed out after 240669 milliseconds with 594604 out of 648127 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 1296254-1944380 failed: curl: (28) Operation timed out after 240226 milliseconds with 601088 out of 648127 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 1944381-2592504 failed: curl: (28) Operation timed out after 240621 milliseconds with 588803 out of 648124 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+"
+"arXiv","1806.08722","https://arxiv.org/pdf/1806.08722.pdf","arXiv\2018\1806.08722.pdf","2018\07\02.md","downloaded","2170115",""
+"arXiv","1806.09174","https://arxiv.org/pdf/1806.09174.pdf","arXiv\2018\1806.09174.pdf","2018\07\02.md","downloaded","363638",""
+"arXiv","1807.05439","https://arxiv.org/pdf/1807.05439.pdf","arXiv\2018\1807.05439.pdf","2018\07\23.md","failed","0","Segment 0-2686352 failed: curl: (28) Operation timed out after 240331 milliseconds with 614976 out of 2686353 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 2686353-5372705 failed: curl: (28) Operation timed out after 240124 milliseconds with 623215 out of 2686353 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 5372706-8059058 failed: curl: (28) Operation timed out after 240103 milliseconds with 617502 out of 2686353 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 8059059-10745408 failed: curl: (28) Operation timed out after 240268 milliseconds with 624461 out of 2686350 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+"
+"arXiv","1807.06009","https://arxiv.org/pdf/1807.06009.pdf","arXiv\2018\1807.06009.pdf","2018\07\19.md","failed","0","Segment 0-3767201 failed: curl: (28) Operation timed out after 240052 milliseconds with 631360 out of 3767202 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 3767202-7534403 failed: curl: (28) Operation timed out after 240447 milliseconds with 623710 out of 3767202 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 7534404-11301605 failed: curl: (28) Operation timed out after 240242 milliseconds with 638588 out of 3767202 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 11301606-15068804 failed: curl: (28) Operation timed out after 240218 milliseconds with 642330 out of 3767199 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+"
+"arXiv","1807.06132","https://arxiv.org/pdf/1807.06132.pdf","arXiv\2018\1807.06132.pdf","2018\07\19.md","failed","0","Segment 0-1382285 failed: curl: (28) Operation timed out after 240028 milliseconds with 631360 out of 1382286 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 1382286-2764571 failed: curl: (28) Operation timed out after 240241 milliseconds with 635378 out of 1382286 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 2764572-4146857 failed: curl: (28) Operation timed out after 240182 milliseconds with 626916 out of 1382286 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 4146858-5529143 failed: curl: (28) Operation timed out after 240157 milliseconds with 630934 out of 1382286 bytes received
+curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+"
+"arXiv","1807.06521","https://arxiv.org/pdf/1807.06521.pdf","arXiv\2018\1807.06521.pdf","2018\07\23.md","downloaded","1942345",""
+"arXiv","1807.07428","https://arxiv.org/pdf/1807.07428.pdf","arXiv\2018\1807.07428.pdf","2018\07\27.md","failed","0","Segment 0-710586 failed: curl: (28) Operation timed out after 240407 milliseconds with 622592 out of 710587 bytes received
+curl: (28) Connection timed out after 15012 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 710587-1421173 failed: curl: (28) Operation timed out after 240383 milliseconds with 632901 out of 710587 bytes received
+curl: (28) Connection timed out after 15012 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 1421174-2131760 failed: curl: (28) Operation timed out after 240514 milliseconds with 633856 out of 710587 bytes received
+curl: (28) Connection timed out after 15011 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 2131761-2842347 failed: curl: (28) Operation timed out after 240494 milliseconds with 630799 out of 710587 bytes received
+curl: (28) Connection timed out after 15011 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+"
+"arXiv","1807.07872","https://arxiv.org/pdf/1807.07872.pdf","arXiv\2018\1807.07872.pdf","2018\07\27.md","downloaded","759297",""
+"arXiv","1807.08865","https://arxiv.org/pdf/1807.08865.pdf","arXiv\2018\1807.08865.pdf","2018\08\03.md","failed","0","Segment 0-1859511 failed: curl: (28) Operation timed out after 240839 milliseconds with 633856 out of 1859512 bytes received
+curl: (28) Connection timed out after 15009 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 1859512-3719023 failed: curl: (28) Operation timed out after 240795 milliseconds with 614472 out of 1859512 bytes received
+curl: (28) Connection timed out after 15009 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 3719024-5578535 failed: curl: (28) Operation timed out after 240925 milliseconds with 620207 out of 1859512 bytes received
+curl: (28) Connection timed out after 15007 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 5578536-7438044 failed: curl: (28) Operation timed out after 240880 milliseconds with 624664 out of 1859509 bytes received
+curl: (28) Connection timed out after 15007 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+"
+"arXiv","1807.08902","https://arxiv.org/pdf/1807.08902.pdf","arXiv\2018\1807.08902.pdf","2018\08\11.md","downloaded","1173706",""
+"arXiv","1807.09959","https://arxiv.org/pdf/1807.09959.pdf","arXiv\2018\1807.09959.pdf","2018\08\03.md","failed","0","Segment 0-1096826 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 1096827-2193653 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 2193654-3290480 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 3290481-4387304 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+"
+"arXiv","1807.09986","https://arxiv.org/pdf/1807.09986.pdf","arXiv\2018\1807.09986.pdf","2018\08\07.md","failed","0","Segment 0-827592 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 827593-1655185 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 1655186-2482778 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 2482779-3310369 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+"
+"arXiv","1807.10267","https://arxiv.org/pdf/1807.10267.pdf","arXiv\2018\1807.10267.pdf","2018\08\07.md","failed","0","Segment 0-1804463 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 1804464-3608927 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 3608928-5413391 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 5413392-7217853 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+"
+"arXiv","1807.10547","https://arxiv.org/pdf/1807.10547.pdf","arXiv\2018\1807.10547.pdf","2018\07\31.md","failed","0","Segment 0-1445375 failed: curl: (28) Connection timed out after 15010 milliseconds
+curl: (28) Connection timed out after 15007 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 1445376-2890751 failed: curl: (56) schannel: server closed abruptly (missing close_notify)
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 2890752-4336127 failed: curl: (28) Connection timed out after 15005 milliseconds
+curl: (28) Connection timed out after 15008 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+ | Segment 4336128-5781500 failed: curl: (28) Connection timed out after 15016 milliseconds
+curl: (28) Connection timed out after 15006 milliseconds
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+curl: (35) schannel: failed to receive handshake, SSL/TLS connection failed
+"
+"arXiv","1807.10712","https://arxiv.org/pdf/1807.10712.pdf","arXiv\2018\1807.10712.pdf","2018\07\31.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1807.11590","https://arxiv.org/pdf/1807.11590.pdf","arXiv\2018\1807.11590.pdf","2018\10\12.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1808.00897","https://arxiv.org/pdf/1808.00897.pdf","arXiv\2018\1808.00897.pdf","2018\10\17.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1808.00948","https://arxiv.org/pdf/1808.00948.pdf","arXiv\2018\1808.00948.pdf","2018\08\11.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1808.04446","https://arxiv.org/pdf/1808.04446.pdf","arXiv\2018\1808.04446.pdf","2018\08\15.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1808.04545","https://arxiv.org/pdf/1808.04545.pdf","arXiv\2018\1808.04545.pdf","2018\08\15.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1808.06032","https://arxiv.org/pdf/1808.06032.pdf","arXiv\2018\1808.06032.pdf","2018\08\25.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1808.06586","https://arxiv.org/pdf/1808.06586.pdf","arXiv\2018\1808.06586.pdf","2018\08\25.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1810.08425","https://arxiv.org/pdf/1810.08425.pdf","arXiv\2018\1810.08425.pdf","2019\03\12.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.00648","https://arxiv.org/pdf/1811.00648.pdf","arXiv\2018\1811.00648.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.00656","https://arxiv.org/pdf/1811.00656.pdf","arXiv\2018\1811.00656.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.00661","https://arxiv.org/pdf/1811.00661.pdf","arXiv\2018\1811.00661.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.00662","https://arxiv.org/pdf/1811.00662.pdf","arXiv\2018\1811.00662.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.00700","https://arxiv.org/pdf/1811.00700.pdf","arXiv\2018\1811.00700.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.00751","https://arxiv.org/pdf/1811.00751.pdf","arXiv\2018\1811.00751.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.00982","https://arxiv.org/pdf/1811.00982.pdf","arXiv\2018\1811.00982.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.00995","https://arxiv.org/pdf/1811.00995.pdf","arXiv\2018\1811.00995.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.01085","https://arxiv.org/pdf/1811.01085.pdf","arXiv\2018\1811.01085.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.01206","https://arxiv.org/pdf/1811.01206.pdf","arXiv\2018\1811.01206.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.01290","https://arxiv.org/pdf/1811.01290.pdf","arXiv\2018\1811.01290.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.01333","https://arxiv.org/pdf/1811.01333.pdf","arXiv\2018\1811.01333.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.01335","https://arxiv.org/pdf/1811.01335.pdf","arXiv\2018\1811.01335.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.01395","https://arxiv.org/pdf/1811.01395.pdf","arXiv\2018\1811.01395.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.01401","https://arxiv.org/pdf/1811.01401.pdf","arXiv\2018\1811.01401.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.01474","https://arxiv.org/pdf/1811.01474.pdf","arXiv\2018\1811.01474.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.01526","https://arxiv.org/pdf/1811.01526.pdf","arXiv\2018\1811.01526.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.01567","https://arxiv.org/pdf/1811.01567.pdf","arXiv\2018\1811.01567.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.01571","https://arxiv.org/pdf/1811.01571.pdf","arXiv\2018\1811.01571.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.01602","https://arxiv.org/pdf/1811.01602.pdf","arXiv\2018\1811.01602.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.01627","https://arxiv.org/pdf/1811.01627.pdf","arXiv\2018\1811.01627.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.02017","https://arxiv.org/pdf/1811.02017.pdf","arXiv\2018\1811.02017.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.02191","https://arxiv.org/pdf/1811.02191.pdf","arXiv\2018\1811.02191.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.02234","https://arxiv.org/pdf/1811.02234.pdf","arXiv\2018\1811.02234.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.02307","https://arxiv.org/pdf/1811.02307.pdf","arXiv\2018\1811.02307.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.02308","https://arxiv.org/pdf/1811.02308.pdf","arXiv\2018\1811.02308.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.02363","https://arxiv.org/pdf/1811.02363.pdf","arXiv\2018\1811.02363.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.02476","https://arxiv.org/pdf/1811.02476.pdf","arXiv\2018\1811.02476.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.02545","https://arxiv.org/pdf/1811.02545.pdf","arXiv\2018\1811.02545.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.03120","https://arxiv.org/pdf/1811.03120.pdf","arXiv\2018\1811.03120.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.03151","https://arxiv.org/pdf/1811.03151.pdf","arXiv\2018\1811.03151.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.03173","https://arxiv.org/pdf/1811.03173.pdf","arXiv\2018\1811.03173.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.03208","https://arxiv.org/pdf/1811.03208.pdf","arXiv\2018\1811.03208.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.03214","https://arxiv.org/pdf/1811.03214.pdf","arXiv\2018\1811.03214.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.03236","https://arxiv.org/pdf/1811.03236.pdf","arXiv\2018\1811.03236.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.03252","https://arxiv.org/pdf/1811.03252.pdf","arXiv\2018\1811.03252.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.03331","https://arxiv.org/pdf/1811.03331.pdf","arXiv\2018\1811.03331.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.03378","https://arxiv.org/pdf/1811.03378.pdf","arXiv\2018\1811.03378.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.03403","https://arxiv.org/pdf/1811.03403.pdf","arXiv\2018\1811.03403.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.03447","https://arxiv.org/pdf/1811.03447.pdf","arXiv\2018\1811.03447.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.03492","https://arxiv.org/pdf/1811.03492.pdf","arXiv\2018\1811.03492.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.03542","https://arxiv.org/pdf/1811.03542.pdf","arXiv\2018\1811.03542.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.03549","https://arxiv.org/pdf/1811.03549.pdf","arXiv\2018\1811.03549.pdf","2018\11\05-09.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.06604","https://arxiv.org/pdf/1811.06604.pdf","arXiv\2018\1811.06604.pdf","2018\11\19.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.06641","https://arxiv.org/pdf/1811.06641.pdf","arXiv\2018\1811.06641.pdf","2018\11\19.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.06666","https://arxiv.org/pdf/1811.06666.pdf","arXiv\2018\1811.06666.pdf","2018\11\19.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.06700","https://arxiv.org/pdf/1811.06700.pdf","arXiv\2018\1811.06700.pdf","2018\11\19.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.06783","https://arxiv.org/pdf/1811.06783.pdf","arXiv\2018\1811.06783.pdf","2018\11\19.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.06846","https://arxiv.org/pdf/1811.06846.pdf","arXiv\2018\1811.06846.pdf","2018\11\19.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.06861","https://arxiv.org/pdf/1811.06861.pdf","arXiv\2018\1811.06861.pdf","2018\11\19.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.06878","https://arxiv.org/pdf/1811.06878.pdf","arXiv\2018\1811.06878.pdf","2018\11\19.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.06879","https://arxiv.org/pdf/1811.06879.pdf","arXiv\2018\1811.06879.pdf","2018\11\19.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.06934","https://arxiv.org/pdf/1811.06934.pdf","arXiv\2018\1811.06934.pdf","2018\11\19.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.06943","https://arxiv.org/pdf/1811.06943.pdf","arXiv\2018\1811.06943.pdf","2018\11\19.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.06965","https://arxiv.org/pdf/1811.06965.pdf","arXiv\2018\1811.06965.pdf","2018\11\19.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07014","https://arxiv.org/pdf/1811.07014.pdf","arXiv\2018\1811.07014.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07031","https://arxiv.org/pdf/1811.07031.pdf","arXiv\2018\1811.07031.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07070","https://arxiv.org/pdf/1811.07070.pdf","arXiv\2018\1811.07070.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07083","https://arxiv.org/pdf/1811.07083.pdf","arXiv\2018\1811.07083.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07100","https://arxiv.org/pdf/1811.07100.pdf","arXiv\2018\1811.07100.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07112","https://arxiv.org/pdf/1811.07112.pdf","arXiv\2018\1811.07112.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07126","https://arxiv.org/pdf/1811.07126.pdf","arXiv\2018\1811.07126.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07170","https://arxiv.org/pdf/1811.07170.pdf","arXiv\2018\1811.07170.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07222","https://arxiv.org/pdf/1811.07222.pdf","arXiv\2018\1811.07222.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07246","https://arxiv.org/pdf/1811.07246.pdf","arXiv\2018\1811.07246.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07249","https://arxiv.org/pdf/1811.07249.pdf","arXiv\2018\1811.07249.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07258","https://arxiv.org/pdf/1811.07258.pdf","arXiv\2018\1811.07258.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07260","https://arxiv.org/pdf/1811.07260.pdf","arXiv\2018\1811.07260.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07266","https://arxiv.org/pdf/1811.07266.pdf","arXiv\2018\1811.07266.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07275","https://arxiv.org/pdf/1811.07275.pdf","arXiv\2018\1811.07275.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07288","https://arxiv.org/pdf/1811.07288.pdf","arXiv\2018\1811.07288.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07296","https://arxiv.org/pdf/1811.07296.pdf","arXiv\2018\1811.07296.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07344","https://arxiv.org/pdf/1811.07344.pdf","arXiv\2018\1811.07344.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07386","https://arxiv.org/pdf/1811.07386.pdf","arXiv\2018\1811.07386.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07407","https://arxiv.org/pdf/1811.07407.pdf","arXiv\2018\1811.07407.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07432","https://arxiv.org/pdf/1811.07432.pdf","arXiv\2018\1811.07432.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07459","https://arxiv.org/pdf/1811.07459.pdf","arXiv\2018\1811.07459.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07480","https://arxiv.org/pdf/1811.07480.pdf","arXiv\2018\1811.07480.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07487","https://arxiv.org/pdf/1811.07487.pdf","arXiv\2018\1811.07487.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07493","https://arxiv.org/pdf/1811.07493.pdf","arXiv\2018\1811.07493.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07498","https://arxiv.org/pdf/1811.07498.pdf","arXiv\2018\1811.07498.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07502","https://arxiv.org/pdf/1811.07502.pdf","arXiv\2018\1811.07502.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07519","https://arxiv.org/pdf/1811.07519.pdf","arXiv\2018\1811.07519.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07544","https://arxiv.org/pdf/1811.07544.pdf","arXiv\2018\1811.07544.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07548","https://arxiv.org/pdf/1811.07548.pdf","arXiv\2018\1811.07548.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07598","https://arxiv.org/pdf/1811.07598.pdf","arXiv\2018\1811.07598.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07619","https://arxiv.org/pdf/1811.07619.pdf","arXiv\2018\1811.07619.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07630","https://arxiv.org/pdf/1811.07630.pdf","arXiv\2018\1811.07630.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07632","https://arxiv.org/pdf/1811.07632.pdf","arXiv\2018\1811.07632.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07662","https://arxiv.org/pdf/1811.07662.pdf","arXiv\2018\1811.07662.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07727","https://arxiv.org/pdf/1811.07727.pdf","arXiv\2018\1811.07727.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07738","https://arxiv.org/pdf/1811.07738.pdf","arXiv\2018\1811.07738.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07749","https://arxiv.org/pdf/1811.07749.pdf","arXiv\2018\1811.07749.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07767","https://arxiv.org/pdf/1811.07767.pdf","arXiv\2018\1811.07767.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07768","https://arxiv.org/pdf/1811.07768.pdf","arXiv\2018\1811.07768.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07769","https://arxiv.org/pdf/1811.07769.pdf","arXiv\2018\1811.07769.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07770","https://arxiv.org/pdf/1811.07770.pdf","arXiv\2018\1811.07770.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07782","https://arxiv.org/pdf/1811.07782.pdf","arXiv\2018\1811.07782.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07791","https://arxiv.org/pdf/1811.07791.pdf","arXiv\2018\1811.07791.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07807","https://arxiv.org/pdf/1811.07807.pdf","arXiv\2018\1811.07807.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1811.07859","https://arxiv.org/pdf/1811.07859.pdf","arXiv\2018\1811.07859.pdf","2018\11\20.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.02781","https://arxiv.org/pdf/1812.02781.pdf","arXiv\2018\1812.02781.pdf","2018\12\10.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.02784","https://arxiv.org/pdf/1812.02784.pdf","arXiv\2018\1812.02784.pdf","2018\12\10.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.02831","https://arxiv.org/pdf/1812.02831.pdf","arXiv\2018\1812.02831.pdf","2018\12\10.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.02925","https://arxiv.org/pdf/1812.02925.pdf","arXiv\2018\1812.02925.pdf","2018\12\10.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.02937","https://arxiv.org/pdf/1812.02937.pdf","arXiv\2018\1812.02937.pdf","2018\12\10.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.02956","https://arxiv.org/pdf/1812.02956.pdf","arXiv\2018\1812.02956.pdf","2018\12\10.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.02967","https://arxiv.org/pdf/1812.02967.pdf","arXiv\2018\1812.02967.pdf","2018\12\10.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.03015","https://arxiv.org/pdf/1812.03015.pdf","arXiv\2018\1812.03015.pdf","2018\12\10.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.03026","https://arxiv.org/pdf/1812.03026.pdf","arXiv\2018\1812.03026.pdf","2018\12\10.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.03050","https://arxiv.org/pdf/1812.03050.pdf","arXiv\2018\1812.03050.pdf","2018\12\10.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.03085","https://arxiv.org/pdf/1812.03085.pdf","arXiv\2018\1812.03085.pdf","2018\12\10.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.03170","https://arxiv.org/pdf/1812.03170.pdf","arXiv\2018\1812.03170.pdf","2018\12\10.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.07997","https://arxiv.org/pdf/1812.07997.pdf","arXiv\2018\1812.07997.pdf","2018\12\17-21.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.08008","https://arxiv.org/pdf/1812.08008.pdf","arXiv\2018\1812.08008.pdf","2018\12\17-21.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.08196","https://arxiv.org/pdf/1812.08196.pdf","arXiv\2018\1812.08196.pdf","2018\12\17-21.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.08245","https://arxiv.org/pdf/1812.08245.pdf","arXiv\2018\1812.08245.pdf","2018\12\17-21.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.08374","https://arxiv.org/pdf/1812.08374.pdf","arXiv\2018\1812.08374.pdf","2018\12\17-21.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.08442","https://arxiv.org/pdf/1812.08442.pdf","arXiv\2018\1812.08442.pdf","2018\12\17-21.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.08468","https://arxiv.org/pdf/1812.08468.pdf","arXiv\2018\1812.08468.pdf","2018\12\17-21.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.08658","https://arxiv.org/pdf/1812.08658.pdf","arXiv\2018\1812.08658.pdf","2018\12\17-21.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.08775","https://arxiv.org/pdf/1812.08775.pdf","arXiv\2018\1812.08775.pdf","2018\12\17-21.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.08848","https://arxiv.org/pdf/1812.08848.pdf","arXiv\2018\1812.08848.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.08852","https://arxiv.org/pdf/1812.08852.pdf","arXiv\2018\1812.08852.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.08928","https://arxiv.org/pdf/1812.08928.pdf","arXiv\2018\1812.08928.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.08934","https://arxiv.org/pdf/1812.08934.pdf","arXiv\2018\1812.08934.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.08973","https://arxiv.org/pdf/1812.08973.pdf","arXiv\2018\1812.08973.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.09025","https://arxiv.org/pdf/1812.09025.pdf","arXiv\2018\1812.09025.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.09046","https://arxiv.org/pdf/1812.09046.pdf","arXiv\2018\1812.09046.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.09079","https://arxiv.org/pdf/1812.09079.pdf","arXiv\2018\1812.09079.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.09127","https://arxiv.org/pdf/1812.09127.pdf","arXiv\2018\1812.09127.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.09131","https://arxiv.org/pdf/1812.09131.pdf","arXiv\2018\1812.09131.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.09162","https://arxiv.org/pdf/1812.09162.pdf","arXiv\2018\1812.09162.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.09213","https://arxiv.org/pdf/1812.09213.pdf","arXiv\2018\1812.09213.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.09232","https://arxiv.org/pdf/1812.09232.pdf","arXiv\2018\1812.09232.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.09271","https://arxiv.org/pdf/1812.09271.pdf","arXiv\2018\1812.09271.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.09570","https://arxiv.org/pdf/1812.09570.pdf","arXiv\2018\1812.09570.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.09648","https://arxiv.org/pdf/1812.09648.pdf","arXiv\2018\1812.09648.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.09809","https://arxiv.org/pdf/1812.09809.pdf","arXiv\2018\1812.09809.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.09874","https://arxiv.org/pdf/1812.09874.pdf","arXiv\2018\1812.09874.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.09899","https://arxiv.org/pdf/1812.09899.pdf","arXiv\2018\1812.09899.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.09900","https://arxiv.org/pdf/1812.09900.pdf","arXiv\2018\1812.09900.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.09903","https://arxiv.org/pdf/1812.09903.pdf","arXiv\2018\1812.09903.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.09916","https://arxiv.org/pdf/1812.09916.pdf","arXiv\2018\1812.09916.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.09922","https://arxiv.org/pdf/1812.09922.pdf","arXiv\2018\1812.09922.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.09930","https://arxiv.org/pdf/1812.09930.pdf","arXiv\2018\1812.09930.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.09953","https://arxiv.org/pdf/1812.09953.pdf","arXiv\2018\1812.09953.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10000","https://arxiv.org/pdf/1812.10000.pdf","arXiv\2018\1812.10000.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10016","https://arxiv.org/pdf/1812.10016.pdf","arXiv\2018\1812.10016.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10066","https://arxiv.org/pdf/1812.10066.pdf","arXiv\2018\1812.10066.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10071","https://arxiv.org/pdf/1812.10071.pdf","arXiv\2018\1812.10071.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10111","https://arxiv.org/pdf/1812.10111.pdf","arXiv\2018\1812.10111.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10212","https://arxiv.org/pdf/1812.10212.pdf","arXiv\2018\1812.10212.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10217","https://arxiv.org/pdf/1812.10217.pdf","arXiv\2018\1812.10217.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10222","https://arxiv.org/pdf/1812.10222.pdf","arXiv\2018\1812.10222.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10265","https://arxiv.org/pdf/1812.10265.pdf","arXiv\2018\1812.10265.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10305","https://arxiv.org/pdf/1812.10305.pdf","arXiv\2018\1812.10305.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10320","https://arxiv.org/pdf/1812.10320.pdf","arXiv\2018\1812.10320.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10325","https://arxiv.org/pdf/1812.10325.pdf","arXiv\2018\1812.10325.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10352","https://arxiv.org/pdf/1812.10352.pdf","arXiv\2018\1812.10352.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10358","https://arxiv.org/pdf/1812.10358.pdf","arXiv\2018\1812.10358.pdf","2018\12\24-28.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10477","https://arxiv.org/pdf/1812.10477.pdf","arXiv\2018\1812.10477.pdf","2018\12\31.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10482","https://arxiv.org/pdf/1812.10482.pdf","arXiv\2018\1812.10482.pdf","2018\12\31.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10550","https://arxiv.org/pdf/1812.10550.pdf","arXiv\2018\1812.10550.pdf","2018\12\31.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10558","https://arxiv.org/pdf/1812.10558.pdf","arXiv\2018\1812.10558.pdf","2018\12\31.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10636","https://arxiv.org/pdf/1812.10636.pdf","arXiv\2018\1812.10636.pdf","2018\12\31.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10717","https://arxiv.org/pdf/1812.10717.pdf","arXiv\2018\1812.10717.pdf","2018\12\31.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10775","https://arxiv.org/pdf/1812.10775.pdf","arXiv\2018\1812.10775.pdf","2018\12\31.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10786","https://arxiv.org/pdf/1812.10786.pdf","arXiv\2018\1812.10786.pdf","2018\12\31.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10885","https://arxiv.org/pdf/1812.10885.pdf","arXiv\2018\1812.10885.pdf","2018\12\31.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10889","https://arxiv.org/pdf/1812.10889.pdf","arXiv\2018\1812.10889.pdf","2018\12\31.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10956","https://arxiv.org/pdf/1812.10956.pdf","arXiv\2018\1812.10956.pdf","2018\12\31.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.10967","https://arxiv.org/pdf/1812.10967.pdf","arXiv\2018\1812.10967.pdf","2018\12\31.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.11006","https://arxiv.org/pdf/1812.11006.pdf","arXiv\2018\1812.11006.pdf","2018\12\31.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.11017","https://arxiv.org/pdf/1812.11017.pdf","arXiv\2018\1812.11017.pdf","2018\12\31.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.11163","https://arxiv.org/pdf/1812.11163.pdf","arXiv\2018\1812.11163.pdf","2018\12\31.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.11166","https://arxiv.org/pdf/1812.11166.pdf","arXiv\2018\1812.11166.pdf","2018\12\31.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.11209","https://arxiv.org/pdf/1812.11209.pdf","arXiv\2018\1812.11209.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.11214","https://arxiv.org/pdf/1812.11214.pdf","arXiv\2018\1812.11214.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.11307","https://arxiv.org/pdf/1812.11307.pdf","arXiv\2018\1812.11307.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.11317","https://arxiv.org/pdf/1812.11317.pdf","arXiv\2018\1812.11317.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.11328","https://arxiv.org/pdf/1812.11328.pdf","arXiv\2018\1812.11328.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.11369","https://arxiv.org/pdf/1812.11369.pdf","arXiv\2018\1812.11369.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.11489","https://arxiv.org/pdf/1812.11489.pdf","arXiv\2018\1812.11489.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.11631","https://arxiv.org/pdf/1812.11631.pdf","arXiv\2018\1812.11631.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.11671","https://arxiv.org/pdf/1812.11671.pdf","arXiv\2018\1812.11671.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.11703","https://arxiv.org/pdf/1812.11703.pdf","arXiv\2018\1812.11703.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.11788","https://arxiv.org/pdf/1812.11788.pdf","arXiv\2018\1812.11788.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.11800","https://arxiv.org/pdf/1812.11800.pdf","arXiv\2018\1812.11800.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.11806","https://arxiv.org/pdf/1812.11806.pdf","arXiv\2018\1812.11806.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.11852","https://arxiv.org/pdf/1812.11852.pdf","arXiv\2018\1812.11852.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.11894","https://arxiv.org/pdf/1812.11894.pdf","arXiv\2018\1812.11894.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.11901","https://arxiv.org/pdf/1812.11901.pdf","arXiv\2018\1812.11901.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.11922","https://arxiv.org/pdf/1812.11922.pdf","arXiv\2018\1812.11922.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.11941","https://arxiv.org/pdf/1812.11941.pdf","arXiv\2018\1812.11941.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1812.11950","https://arxiv.org/pdf/1812.11950.pdf","arXiv\2018\1812.11950.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00001","https://arxiv.org/pdf/1901.00001.pdf","arXiv\2019\1901.00001.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00027","https://arxiv.org/pdf/1901.00027.pdf","arXiv\2019\1901.00027.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00031","https://arxiv.org/pdf/1901.00031.pdf","arXiv\2019\1901.00031.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00039","https://arxiv.org/pdf/1901.00039.pdf","arXiv\2019\1901.00039.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00062","https://arxiv.org/pdf/1901.00062.pdf","arXiv\2019\1901.00062.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00063","https://arxiv.org/pdf/1901.00063.pdf","arXiv\2019\1901.00063.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00097","https://arxiv.org/pdf/1901.00097.pdf","arXiv\2019\1901.00097.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00148","https://arxiv.org/pdf/1901.00148.pdf","arXiv\2019\1901.00148.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00166","https://arxiv.org/pdf/1901.00166.pdf","arXiv\2019\1901.00166.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00212","https://arxiv.org/pdf/1901.00212.pdf","arXiv\2019\1901.00212.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00224","https://arxiv.org/pdf/1901.00224.pdf","arXiv\2019\1901.00224.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00248","https://arxiv.org/pdf/1901.00248.pdf","arXiv\2019\1901.00248.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00282","https://arxiv.org/pdf/1901.00282.pdf","arXiv\2019\1901.00282.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00363","https://arxiv.org/pdf/1901.00363.pdf","arXiv\2019\1901.00363.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00366","https://arxiv.org/pdf/1901.00366.pdf","arXiv\2019\1901.00366.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00413","https://arxiv.org/pdf/1901.00413.pdf","arXiv\2019\1901.00413.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00466","https://arxiv.org/pdf/1901.00466.pdf","arXiv\2019\1901.00466.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00488","https://arxiv.org/pdf/1901.00488.pdf","arXiv\2019\1901.00488.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00520","https://arxiv.org/pdf/1901.00520.pdf","arXiv\2019\1901.00520.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00534","https://arxiv.org/pdf/1901.00534.pdf","arXiv\2019\1901.00534.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00536","https://arxiv.org/pdf/1901.00536.pdf","arXiv\2019\1901.00536.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00542","https://arxiv.org/pdf/1901.00542.pdf","arXiv\2019\1901.00542.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00544","https://arxiv.org/pdf/1901.00544.pdf","arXiv\2019\1901.00544.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00600","https://arxiv.org/pdf/1901.00600.pdf","arXiv\2019\1901.00600.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00621","https://arxiv.org/pdf/1901.00621.pdf","arXiv\2019\1901.00621.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00675","https://arxiv.org/pdf/1901.00675.pdf","arXiv\2019\1901.00675.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00680","https://arxiv.org/pdf/1901.00680.pdf","arXiv\2019\1901.00680.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00686","https://arxiv.org/pdf/1901.00686.pdf","arXiv\2019\1901.00686.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00711","https://arxiv.org/pdf/1901.00711.pdf","arXiv\2019\1901.00711.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00713","https://arxiv.org/pdf/1901.00713.pdf","arXiv\2019\1901.00713.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00738","https://arxiv.org/pdf/1901.00738.pdf","arXiv\2019\1901.00738.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1901.00850","https://arxiv.org/pdf/1901.00850.pdf","arXiv\2019\1901.00850.pdf","2019\01\01-04.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1903.04025","https://arxiv.org/pdf/1903.04025.pdf","arXiv\2019\1903.04025.pdf","2019\03\12.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1903.04092","https://arxiv.org/pdf/1903.04092.pdf","arXiv\2019\1903.04092.pdf","2019\03\12.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1903.04104","https://arxiv.org/pdf/1903.04104.pdf","arXiv\2019\1903.04104.pdf","2019\03\12.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1903.04143","https://arxiv.org/pdf/1903.04143.pdf","arXiv\2019\1903.04143.pdf","2019\03\12.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1903.04147","https://arxiv.org/pdf/1903.04147.pdf","arXiv\2019\1903.04147.pdf","2019\03\12.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1903.04197","https://arxiv.org/pdf/1903.04197.pdf","arXiv\2019\1903.04197.pdf","2019\03\12.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1903.04202","https://arxiv.org/pdf/1903.04202.pdf","arXiv\2019\1903.04202.pdf","2019\03\12.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1903.04229","https://arxiv.org/pdf/1903.04229.pdf","arXiv\2019\1903.04229.pdf","2019\03\12.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"arXiv","1903.04480","https://arxiv.org/pdf/1903.04480.pdf","arXiv\2019\1903.04480.pdf","2019\03\12.md","failed","0","Unable to read PDF headers (curl exit 35)"
+"direct","","https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2020/12/AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf","其他PDF\AAAI-21_Accepted-Paper-List.Main_.Technical.Track_.pdf","README.md","failed","0","curl failed with exit code 35"
+"direct","","http://openaccess.thecvf.com/content_ECCV_2018/papers/Yang_Zou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.pdf","其他PDF\Yang_Zou_Unsupervised_Domain_Adaptation_ECCV_2018_paper.pdf","2018\10\17.md","failed","0","curl failed with exit code 22"
